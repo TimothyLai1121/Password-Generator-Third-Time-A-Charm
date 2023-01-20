@@ -1,4 +1,4 @@
-# Javascript - Project 03 - Password Generator ![Filesize](https://img.shields.io/github/repo-size/TimothyLai1121/Password-Generator-Third-Time-A-Charm?style=plastic)
+# Javascript - Project 03 - Password Generator ![Filesize](https://img.shields.io/github/repo-size/TimothyLai1121/Password-Generator-Third-Time-A-Charm?style=plastic)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 
